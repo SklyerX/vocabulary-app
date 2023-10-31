@@ -1,3 +1,13 @@
+## Why did I make this?
+
+For my classes in school I was given a physical paper to store all my vocabularies and through out the semester I have to refer back to it and use it in my projects. I don't like the way the physical paper was and it would get destroyed in my bag. So I made this weird looking app to store my words in and easily refer back to it.
+
+## Upcoming updates
+
+- Ability to export as PDF
+- Inviting users to view your vocabulary list.
+- Share lists with friends and family via email
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
