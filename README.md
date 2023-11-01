@@ -10,6 +10,12 @@ For my classes in school I was given a physical paper to store all my vocabulari
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Screenshots
+
+![All words](/screenshots/words.png)
+![Search for a word](/screenshots/search-word.png)
+![Add a word](/screenshots/add-word.png)
+
 ## Getting Started
 
 First, run the development server:
